@@ -1,0 +1,23 @@
+// GLOBAL SMTP SETTING
+
+define('WPMS_ON', true);
+
+define('WPMS_MAIL_FROM', 'your@email.com');
+
+define('WPMS_MAIL_FROM_NAME', 'Bina Funnel - Funnel make easy money!');
+
+define('WPMS_MAILER', 'smtp'); 
+
+define('WPMS_SET_RETURN_PATH', false); 
+
+define('WPMS_SMTP_HOST', 'smtp.gmail.com'); 
+
+define('WPMS_SMTP_PORT', 587); 
+
+define('WPMS_SSL', 'tls'); 
+
+define('WPMS_SMTP_AUTH', true); 
+
+define('WPMS_SMTP_USER', 'yourusername@smtp.com'); 
+
+define('WPMS_SMTP_PASS', 'yourpassword');
