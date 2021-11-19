@@ -7,3 +7,5 @@ Requirement.
 1. Multisite Network Active
 
 2. Plugin name = WP_SMTP (url : https://wpmailsmtp.com/)
+
+3. Uncomment what needed
